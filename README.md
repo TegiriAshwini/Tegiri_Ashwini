@@ -1,4 +1,3 @@
-# Tegiri_Ashwini
 <!-- Profile Header -->
 <h1 align="center">Hello 👋 I'm Ashwini</h1>
 <h3 align="center">Electronics & Communication Engineering Student | VLSI & Digital Systems Learner</h3>
@@ -74,6 +73,7 @@ I enjoy designing efficient digital architectures and continuously strengthening
 ## 📬 Get in Touch
 
 📧 Email: ashwinitegiri@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/ashwinitegiri/  
 📍 Hyderabad, India  
 
 🤝 Open to:
